@@ -26,6 +26,8 @@ class Kibrewossen:
 
 *Currently working on [Whisp](https://github.com/kebtes/whisp), [Zoma](https://github.com/kebtes/zuma), [RelicAI](https://github.com/kebtes/relic-ai)*
 
+*Other works [Phroggy](https://github.com/kebtes/phroggy), [doodle.predict](https://github.com/kebtes/doodle.predict), [NNF](https://github.com/kebtes/nnf)*
+
 ---
 
 <div align="center">
@@ -44,39 +46,30 @@ class Kibrewossen:
 
 </div>
 
-
-## 🚀 FEW OF MY WORKS!
-
-- 🫧 [Whisp](https://github.com/kebtes/whisp)
-- 📚 [RelicAI](https://github.com/kebtes/relic-ai)
-- 🐸 [Phroggy](https://github.com/kebtes/phroggy)
-- ✏️ [doodle.predict](https://github.com/kebtes/doodle.predict)
-- 🎵 [NNF](https://github.com/kebtes/nnf)
-
 ---
 
 <div align=center>
     
 ## ⚒️ TECH STACK
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=white&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript&logoColor=white&style=for-the-badge)
-![C#](https://img.shields.io/badge/-C%23-000?&logo=c-sharp&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=white&style=for-the-badge)
-
-### Backend & AI
-![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi&logoColor=white&style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow&logoColor=white&style=for-the-badge)
-![LangChain](https://img.shields.io/badge/-LangChain-000?&logoColor=white&style=for-the-badge)
-![Pydantic](https://img.shields.io/badge/-Pydantic-000?&logoColor=white&style=for-the-badge)
-![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=supabase&logoColor=white&style=for-the-badge)
-
-### Tools
-![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql&logoColor=white&style=for-the-badge)
+<!-- Languages -->
+[![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white&style=for-the-badge&logoWidth=20)](https://www.python.org)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?&logo=TypeScript&logoColor=white&style=for-the-badge&logoWidth=20)](https://www.typescriptlang.org)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=black&style=for-the-badge&logoWidth=20)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![C#](https://img.shields.io/badge/-C%23-239120?&logo=c-sharp&logoColor=white&style=for-the-badge&logoWidth=20)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Java](https://img.shields.io/badge/-Java-007396?&logo=openjdk&logoColor=white&style=for-the-badge&logoWidth=20)](https://www.java.com)
+ 
+<!-- Backend & AI -->
+[![FastAPI](https://img.shields.io/badge/-FastAPI-009485?&logo=fastapi&logoColor=white&style=for-the-badge&logoWidth=20)](https://fastapi.tiangolo.com)
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?&logo=tensorflow&logoColor=white&style=for-the-badge&logoWidth=20)](https://www.tensorflow.org)
+[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?&logo=pytorch&logoColor=white&style=for-the-badge&logoWidth=20)](https://pytorch.org)
+[![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?&logo=langchain&logoColor=white&style=for-the-badge&logoWidth=20)](https://langchain.com)
+[![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?&logo=supabase&logoColor=white&style=for-the-badge&logoWidth=20)](https://supabase.com)
+ 
+<!-- Tools & Databases -->
+[![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=white&style=for-the-badge&logoWidth=20)](https://git-scm.com)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=docker&logoColor=white&style=for-the-badge&logoWidth=20)](https://www.docker.com)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-13AA52?&logo=mongodb&logoColor=white&style=for-the-badge&logoWidth=20)](https://www.mongodb.com)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?&logo=postgresql&logoColor=white&style=for-the-badge&logoWidth=20)](https://www.postgresql.org)
 
 </div>
