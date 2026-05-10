@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Kibrewossen
+# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fd/512.webp" width="40"> Hey, I'm Kibrewossen
 
 ```python
 class Kibrewossen:
@@ -18,21 +18,29 @@ class Kibrewossen:
         return "Building products where AI is the core experience."
 ```
 
-Software Engineer focused on AI applications, backend systems, and fast product development. I enjoy building things around LLMs, machine learning, automation, and modern web technologies.
+Software engineering student focused on AI applications, backend systems, and fast product development. I enjoy building things around LLMs, machine learning, automation, and modern web technologies.
 
 Currently working on [Whisp](https://github.com/kebtes/whisp), [Zoma](https://github.com/kebtes/zuma), [RelicAI](https://github.com/kebtes/relic-ai)
 
 ---
 
+### GitHub Stats
+
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=kebtes&show_icons=true&theme=aura&hide_border=true&rank_icon=github)
- 
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kebtes&theme=aura&hide_border=true)
- 
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kebtes&layout=compact&theme=aura&hide_border=true)
- 
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kebtes&theme=aura)
- 
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kebtes&theme=aura)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time-commit-graph?username=kebtes&theme=aura)
+
+</div>
 
 
 ## 🚀 Projects
