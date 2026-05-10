@@ -1,4 +1,8 @@
-# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fd/512.webp" width="40"> Hey, I'm Kibrewossen
+<div align=center>
+    
+# **Hey, I'm Kibrewossen** <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fd/512.webp" width="40">  
+
+</div>
 
 ```python
 class Kibrewossen:
@@ -18,13 +22,11 @@ class Kibrewossen:
         return "Building products where AI is the core experience."
 ```
 
-Software engineering student focused on AI applications, backend systems, and fast product development. I enjoy building things around LLMs, machine learning, automation, and modern web technologies.
+*Software engineering student focused on AI applications, backend systems, and fast product development. I enjoy building things around LLMs, machine learning, automation, and modern web technologies.*
 
-Currently working on [Whisp](https://github.com/kebtes/whisp), [Zoma](https://github.com/kebtes/zuma), [RelicAI](https://github.com/kebtes/relic-ai)
+*Currently working on [Whisp](https://github.com/kebtes/whisp), [Zoma](https://github.com/kebtes/zuma), [RelicAI](https://github.com/kebtes/relic-ai)*
 
 ---
-
-### GitHub Stats
 
 <div align="center">
 
@@ -43,7 +45,7 @@ Currently working on [Whisp](https://github.com/kebtes/whisp), [Zoma](https://gi
 </div>
 
 
-## 🚀 Projects
+## 🚀 FEW OF MY WORKS!
 
 - 🫧 [Whisp](https://github.com/kebtes/whisp)
 - 📚 [RelicAI](https://github.com/kebtes/relic-ai)
@@ -53,7 +55,9 @@ Currently working on [Whisp](https://github.com/kebtes/whisp), [Zoma](https://gi
 
 ---
 
-## ⚒️ Tech Stack
+<div align=center>
+    
+## ⚒️ TECH STACK
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=white&style=for-the-badge)
@@ -74,3 +78,5 @@ Currently working on [Whisp](https://github.com/kebtes/whisp), [Zoma](https://gi
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql&logoColor=white&style=for-the-badge)
+
+</div>
