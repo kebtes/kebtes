@@ -34,7 +34,7 @@ class Kibrewossen:
 
 ![](https://github-readme-stats.vercel.app/api?username=kebtes&show_icons=true&theme=aura&hide_border=true&rank_icon=github)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=kebtes&theme=aura&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kebtes&theme=aura&hide_border=true&v=1)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kebtes&layout=compact&theme=aura&hide_border=true)
 
