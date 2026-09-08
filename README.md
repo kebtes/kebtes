@@ -59,7 +59,7 @@ class Kibrewossen:
 [![C#](https://img.shields.io/badge/-C%23-239120?&logo=c-sharp&logoColor=white&style=for-the-badge&logoWidth=20)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Java](https://img.shields.io/badge/-Java-007396?&logo=openjdk&logoColor=white&style=for-the-badge&logoWidth=20)](https://www.java.com)
  
-<!-- Backend & AI -->
+<!-- Backend & AI  -->
 [![FastAPI](https://img.shields.io/badge/-FastAPI-009485?&logo=fastapi&logoColor=white&style=for-the-badge&logoWidth=20)](https://fastapi.tiangolo.com)
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?&logo=tensorflow&logoColor=white&style=for-the-badge&logoWidth=20)](https://www.tensorflow.org)
 [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?&logo=pytorch&logoColor=white&style=for-the-badge&logoWidth=20)](https://pytorch.org)
