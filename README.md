@@ -11,7 +11,7 @@ class Kibrewossen:
         self.location = "Addis Ababa, Ethiopia"
         self.languages = ["Python", "TypeScript", "JavaScript", "C#", "Java", "C++"]
         self.focus = [
-            "AI powered applications",
+            "AI-powered applications",
             "Backend engineering",
             "LLMs & RAG systems",
             "Machine Learning",
