@@ -26,7 +26,7 @@ class Kibrewossen:
 
 *Currently working on [Whisp](https://github.com/kebtes/whisp), [Zoma](https://github.com/kebtes/zuma), [RelicAI](https://github.com/kebtes/relic-ai)*
 
-*Other works [Phroggy](https://github.com/kebtes/phroggy), [doodle.predict](https://github.com/kebtes/doodle.predict), [NNF](https://github.com/kebtes/nnf)*
+*Other works [Phroggy](https://github.com/kebtes/phroggy), [doodle.predict](https://github.com/kebtes/doodle.predict), [Epicon](https://github.com/kebtes/epicon)*
 
 ---
 
